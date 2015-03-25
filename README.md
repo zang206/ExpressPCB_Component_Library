@@ -15,12 +15,3 @@ For the other files that I have imported the MIT license does not apply.  Most o
 
 # Questions/Comments
 If you have any questions or comments please submit an issue with your question/comment and I will get back to you as soon as I can.
-
-
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
----
-###### Google Analytics Tracking Code
-###### I need to post this here just while doing some publishing. UA-60249904-5
----
