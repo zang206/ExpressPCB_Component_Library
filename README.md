@@ -11,7 +11,7 @@ For the other files that I have imported the MIT license does not apply.  Most o
 ## Future Plans for the Component Library
 * In the near future I plan on digging through all the files and separating them into groups to better categorize them.
 * I will also label them better so the source and/or author of the file will be more obvious.
-* Once I have finished organizing the components I will move the library (repository) to the ProckNation GitHub site. (ProckNation site)[http://procknation.procknation.com]
+* Once I have finished organizing the components I will move the library (repository) to the ProckNation GitHub site. [ProckNation GitHub site](http://procknation.procknation.com)
 
 # Questions/Comments
 If you have any questions or comments please submit an issue with your question/comment and I will get back to you as soon as I can.
