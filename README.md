@@ -1,12 +1,24 @@
-# Extra Components and Parts for ExpressPCB Schematic Capture and PCB Layout
-This repository will store all of my personally created schematic components and custom PCB parts plus any that I have found on various web sites and have imported.  I am just going through all of my laptops and desktops and copying all the .s and .p files I can find.
+# Zang206's ExpressPCB Parts and Components Repository
+This repository will store all of my personally created schematic components and custom PCB parts plus any that I have collected from various web sites and have imported.  To get this repository started, I am just going through all of my laptops and desktops and copying all the .s and .p files I can find to this one location
+
+If you have any questions or comments please submit an issue with your question and I will get back to you as soon as I can.
 
 ## Parts and Components Licensing
 ### My Files
 The MIT license posted in the repository applies to all the parts and components that I have created.  You are free to use them for any purpose, just try to give credit in the documentation of your project.
 
 ### Other Files Found and Imported Over the Years
-For the other files that I have imported the MIT license does not apply.  Most of them did not specify any type of use restriction so you them at your own discretion. 
+For the other files that I have imported the MIT license does not apply.  Most of them did not specify any type of use restriction so use them at your own discretion. 
 
+## Future Plans
+* In the near future I plan on digging through all the files and separating them into groups to better categorize them.
+* I will also label them better so the source and/or author of the file will be more obvious.
+
+
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+---
 ###### Google Analytics Tracking Code
-I need to post this here just while doing some publishing. UA-60249904-5
+###### I need to post this here just while doing some publishing. UA-60249904-5
+---
